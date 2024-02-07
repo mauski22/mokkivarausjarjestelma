@@ -1,4 +1,4 @@
-# mokkivarausjarjestelma
+# Software Development Course 1
 A school group-project. I created FormMokitJaMokkivaraukset.cs and FormVaraus.cs
 What I have included here, is just my own code. Just the pages, that I coded.
 
