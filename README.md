@@ -1,4 +1,4 @@
-# Software Development Course 1
+# Software Development Course 1 (Spring of 2023)
 A school group-project. I created FormMokitJaMokkivaraukset.cs and FormVaraus.cs
 What I have included here, is just my own code. Just the pages, that I coded. Comments in the code are in Finnish.
 
