@@ -1,6 +1,6 @@
 # Software Development Course 1
 A school group-project. I created FormMokitJaMokkivaraukset.cs and FormVaraus.cs
-What I have included here, is just my own code. Just the pages, that I coded.
+What I have included here, is just my own code. Just the pages, that I coded. Comments in the code are in Finnish.
 
 The forms have following functionality:
 The renting company can add cabins into the database. A cabin has it's ID, cabin description, name, street addresse, cabin size, ID of the area where it is located, price per day, cottage features and equipment.
